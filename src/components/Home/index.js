@@ -17,11 +17,9 @@ const Home = () => {
 						, my name is Jane
 					</p>
 				</div>
-				<div id="titles">
-						<p>
+				<p id="titles">
 							software engineer and artist
-						</p>
-				</div>
+				</p>
 			</div>
 			<div id="second-page" className="slides">
 				<h1>

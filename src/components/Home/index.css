@@ -16,7 +16,7 @@
 
 #titles {
   font-family: 'Satisfy';
-  font-size: 40px;
+  font-size: 50px;
   text-align: center;
   justify-content: center;
 }
@@ -29,7 +29,7 @@
 
 #first-page {
   position: relative;
-  left: -100px;
+  /* left: -90px; */
   padding-top: 15%;
 }
 
