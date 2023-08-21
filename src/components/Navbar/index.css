@@ -15,3 +15,7 @@
   text-decoration: none;
   color: #000;
 }
+
+#home-button {
+  max-height: 60px;
+}
