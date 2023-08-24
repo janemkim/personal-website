@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/personal-website/static/css/main.5587a4c2.css",
-    "main.js": "/personal-website/static/js/main.575f2d0d.js",
-    "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
+    "main.js": "/personal-website/static/js/main.550d7e7a.js",
+    "static/js/787.229a4885.chunk.js": "/personal-website/static/js/787.229a4885.chunk.js",
     "static/media/PaintBrushScript-Regular.ttf": "/personal-website/static/media/PaintBrushScript-Regular.fdaa1140fae63cdc98d5.ttf",
     "static/media/Daughter-of-Fortune.ttf": "/personal-website/static/media/Daughter-of-Fortune.2866aab0f51f03034b54.ttf",
     "static/media/PaintBrushScript-Regular.woff": "/personal-website/static/media/PaintBrushScript-Regular.26dd9645ca426ab20551.woff",
@@ -23,11 +23,11 @@
     "static/media/computer.png": "/personal-website/static/media/computer.cb5f4ca41c5579e716bf.png",
     "index.html": "/personal-website/index.html",
     "main.5587a4c2.css.map": "/personal-website/static/css/main.5587a4c2.css.map",
-    "main.575f2d0d.js.map": "/personal-website/static/js/main.575f2d0d.js.map",
-    "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
+    "main.550d7e7a.js.map": "/personal-website/static/js/main.550d7e7a.js.map",
+    "787.229a4885.chunk.js.map": "/personal-website/static/js/787.229a4885.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5587a4c2.css",
-    "static/js/main.575f2d0d.js"
+    "static/js/main.550d7e7a.js"
   ]
 }
