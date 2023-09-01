@@ -30,7 +30,7 @@ const Home = () => {
       	    className="nav-link"
         	  exact="true"
           	activeclassname="active"
-          	to="/software">
+          	to="/personal-website/software">
 						<h2>
 							Software development
 						</h2>
@@ -40,7 +40,7 @@ const Home = () => {
 	          className="nav-link"
   	        exact="true"
     	      activeclassname="active"
-      	    to="/art">
+      	    to="/personal-website/art">
 						<h2>
 							Art
 						</h2>
@@ -52,7 +52,7 @@ const Home = () => {
 					id="about"
           exact="true"
           activeclassname="active"
-          to="/about">
+          to="/personal-website/about">
 					<img src={Lemon} alt="an image of a lemon"/>
 					<p>
 						More about me

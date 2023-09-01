@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className='nav-bar'>
       <Link 
         className="nav-link"
-        to="/">
+        to="/personal-website">
           <img src={Lemon} alt="an image of a lemon" id="home-button"/>
       </Link>
       <div className='nav-links'>
@@ -15,21 +15,21 @@ const Navbar = () => {
           className="nav-link"
           exact="true"
           activeclassname="active"
-          to="/about">
+          to="/personal-website/about">
             <p>About</p>
         </NavLink>
         <NavLink 
           className="nav-link"
           exact="true"
           activeclassname="active"
-          to="/software">
+          to="/personal-website/software">
           <p>Software</p>
         </NavLink>
         <NavLink 
           className="nav-link"
           exact="true"
           activeclassname="active"
-          to="/art">
+          to="/personal-website/art">
           <p>Art</p>
         </NavLink>
       </div>
